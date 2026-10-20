@@ -49,4 +49,7 @@ at the end of the notebook.
 
 ## How to run
 
-1. Download the****
+1. Download the dataset from Kaggle (LGG MRI Segmentation) and unzip it so that the
+   images are under `MRI/kaggle_3m/`.
+2. Update the drive mount and zip path in the first cells if not using Colab.
+3. Run the notebook top to bottom.
